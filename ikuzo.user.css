@@ -1,0 +1,75 @@
+/* ==UserStyle==
+@name           Ikuzo
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    An user style for TopAchat configurator called Ikuzo.
+@author         OzakI/OzakIOne
+==/UserStyle== */
+
+@-moz-document url-prefix("https://www.topachat.com/pages/configomatic.php") {
+body {
+    background-color: #202020;
+}
+
+.tacenter, .wysiwyg-text-align-center {
+    display: none;
+}
+
+#config-maker, #config-preview {
+    background-color: #303030;
+    border: 1px solid #303030;
+}
+
+.select-compo .descr {
+    color: #9a9a9a;
+}
+
+.select-compo {
+    background-color: #404040;
+    border: 1px solid #454545;
+}
+
+#my-saved-configs {
+    border: 1px solid #9a9a9a;
+}
+
+#my-saved-configs h3 {
+    border-bottom: 1px solid #9a9a9a;
+}
+
+div.group {
+    background-color: #303030;
+    border: 1px solid #9a9a9a;
+}
+
+.list-compos.open {
+    background: #202020
+}
+
+.list-compos .best-seller {
+    background: #303030;
+    border: 1px solid #9a9a9a;
+}
+
+.list-compos .best-seller .descr-best-seller {
+    color: #9a9a9a;
+}
+
+.list-compos tr {
+    background: #404040;
+    color: #9a9a9a;
+}
+
+.list-compos tr:nth-of-type(even) {
+    background: #505050;
+}
+
+.no-touch .list-compos tr:hover {
+    background: #60abf8;
+    color: white;
+}
+
+#config-preview ul {
+    color: #9a9a9a;
+}
+}
