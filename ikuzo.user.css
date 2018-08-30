@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Ikuzo
-@namespace      https://github.com/OzakIOne/Ikuzo
-@version        1.0.0
+@namespace      github.com/openstyles/stylus
+@version        1.0.1
 @description    An user style for TopAchat configurator called Ikuzo.
 @author         OzakI/OzakIOne
 ==/UserStyle== */
@@ -11,8 +11,12 @@ body {
     background-color: #202020;
 }
 
-.tacenter, .wysiwyg-text-align-center {
-    display: none;
+.tacenter {
+    display:none;
+}
+
+.btns.tacenter {
+    display:block;
 }
 
 #config-maker, #config-preview {
