@@ -19,9 +19,11 @@ Depending of your browser.
 * for [Google Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 * for [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/?display=en)
 
-**Step 2 : Install the script**
+~~**Step 2 : Install the script**~~
 
-* Directly with **Stylus** [click here](https://raw.githubusercontent.com/OzakIOne/Ikuzo/master/ikuzo.user.css)
+~~* Directly with **Stylus** [click here](https://raw.githubusercontent.com/OzakIOne/Ikuzo/master/ikuzo.user.css)~~
+
+### OUT DATED DONT INSTALL IT PLEASE REFER TO THIS : [NEW USERSTYLE](https://github.com/OzakIOne/Polo)
 
 **Step 3 : Show your appreciation**
 
